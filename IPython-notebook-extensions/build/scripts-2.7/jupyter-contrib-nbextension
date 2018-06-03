@@ -1,0 +1,6 @@
+#!/usr/local/opt/python@2/bin/python2.7
+
+from jupyter_contrib_nbextensions.application import main
+
+if __name__ == '__main__':
+    main()
